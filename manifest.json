@@ -1,0 +1,16 @@
+{
+  "name": "Cours de Kpele (Guerzé)",
+  "short_name": "Kpele",
+  "description": "Apprenez le kpele avec 15 leçons audio, flashcards, quiz et vocabulaire",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ECFDF5",
+  "theme_color": "#065F46",
+  "orientation": "portrait",
+  "lang": "fr",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
